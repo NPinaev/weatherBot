@@ -10,10 +10,10 @@
         <version>2.1.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.avp256</groupId>
-    <artifactId>avp256_bot</artifactId>
+    <groupId>com.poly</groupId>
+    <artifactId>weather_bot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>avp256_bot</name>
+    <name>weather_bot</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

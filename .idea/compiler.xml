@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="avp256_bot" />
+        <module name="weather_bot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="avp256_bot" target="1.8" />
+      <module name="weather_bot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="avp256_bot" options="-parameters" />
+      <module name="weather_bot" options="-parameters" />
     </option>
   </component>
 </project>
