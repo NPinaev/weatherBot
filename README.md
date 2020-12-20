@@ -1,2 +1,2 @@
 # weather-bot
-Java realization of simple telegram bot
+Java realization of weather telegram bot
